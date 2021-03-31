@@ -42,6 +42,6 @@ seguintes métodos:
     - i) **printExpression** conforme slide 53.
     - j) Método para contar os nodos esquerdos e externos de uma árvore binária.
     - k) Método para contar os nodos direitos e externos de uma árvore binária.
-***R:** /tests/ex4.test*
+<br>***R:** /tests/ex5.test*
 6. Desenhe uma árvore binária que represente a seguinte expressão aritmética:
-“(((5+2)*(2-1))/((2+9)+(7-2)-1))*8)”.
+“(((5+2)*(2-1))/((2+9)+(7-2)-1))*8)”.<br>***R:***<br><img src="https://github.com/AnBruLuMaMi/ed-ac3/blob/main/imgs/ex6.png" alt="drawing" width="600"/>
